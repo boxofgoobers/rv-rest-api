@@ -12,7 +12,7 @@ $ cd <install-directory>/rv-rest-api
 # populate the database with table schemas and data
 
 $ cd rv_data
-$ mysql -h localhost test < database_schema-mysql.sql
+$ mysql -h localhost test < database_schema.sql
 
 
 # Python PIP - install package dependencies
