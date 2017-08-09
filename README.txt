@@ -29,3 +29,7 @@ $ sudo pip install flask-restful
 $ sudo pip install mysqlclient
 $ sudo pip install SQLAlchemy
 $ pip list
+
+# launch application
+#
+$ python main.py
